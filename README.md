@@ -4,7 +4,7 @@ Este es un repositorio que utilizara **GitHub Pages** para crear una pagina Web
 
 ## Juan Daniel Primavera Garía
 
-[Documento _HTML_ en **GutHub Pages**](https://oakisland22.github.io/Practica-12-HTML/)
+[Documento _HTML_ en **GutHub Pages**](https://oakisland22.github.io/Practica-14/)
 
 
 [Referencia _Bootstrap_](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
