@@ -1,0 +1,72 @@
+
+:root{
+    --txt-sixe: 16px;
+    --txt-color: white;
+    --color-enlace: rgb(0, 183, 255);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-size: var(--txt-sixe);
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    
+    background-color: rgb(59, 59, 59);
+    color:  var(--txt-color);
+    text-align: justify;
+}
+
+img , iframe{
+    max-width: 100%;
+}
+
+.enlace {
+    color: var(--color-enlace);
+}
+
+.indice{
+    color: rgb(150, 204, 255);
+}
+
+.en-enlace:hover , .en-indice:hover , .boton-regresar:hover{
+    color: rgb(244, 255, 143);
+}
+
+.table{
+    width: 100%;
+}
+
+.title-color{
+    color: rgb(255, 251, 0);
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.boton-regresar{
+    color: rgb(113, 255, 132);
+}
+
+.text-center{
+    text-align: center;
+}
+
+.font-size-title{
+    font-size: 50px;
+}
+
+.font-size-txt{
+    font-size: 15px;
+}
+
+.font-size-table-title{
+    font-size: 20px;
+}
+
+.borde-redondear{
+    border-radius: 100%;
+}
